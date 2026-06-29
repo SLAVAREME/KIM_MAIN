@@ -1,0 +1,6 @@
+[submodule "services/KIM_API"]
+	path = services/KIM_API
+	url = https://github.com/SLAVAREME/KIM_API.git
+[submodule "frontend/KIM_SPA"]
+	path = frontend/KIM_SPA
+	url = https://github.com/SLAVAREME/KIM_SPA.git
